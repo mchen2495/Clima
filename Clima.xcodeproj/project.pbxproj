@@ -20,6 +20,7 @@
 		EF5C5D8225955633002D78A1 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF5C5D8125955633002D78A1 /* WeatherManager.swift */; };
 		EF7443FB259668C40025CC88 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF7443FA259668C40025CC88 /* WeatherData.swift */; };
 		EF7443FE259673A60025CC88 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF7443FD259673A60025CC88 /* WeatherModel.swift */; };
+		EFEF20ED25B64D00007697D6 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFEF20EC25B64D00007697D6 /* API.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		EF5C5D8125955633002D78A1 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		EF7443FA259668C40025CC88 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		EF7443FD259673A60025CC88 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
+		EFEF20EC25B64D00007697D6 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				ADAA27BE231BBFB300365194 /* Info.plist */,
 				ADAA27C5231BC02B00365194 /* dark_background.pdf */,
 				ADAA27C4231BC02B00365194 /* light_background.pdf */,
+				EFEF20EC25B64D00007697D6 /* API.swift */,
 			);
 			path = Clima;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				EF7443FB259668C40025CC88 /* WeatherData.swift in Sources */,
 				ADAA27B1231BBFAF00365194 /* AppDelegate.swift in Sources */,
 				EF5C5D8225955633002D78A1 /* WeatherManager.swift in Sources */,
+				EFEF20ED25B64D00007697D6 /* API.swift in Sources */,
 				EF7443FE259673A60025CC88 /* WeatherModel.swift in Sources */,
 				ADAA27B3231BBFAF00365194 /* SceneDelegate.swift in Sources */,
 			);
